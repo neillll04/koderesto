@@ -1,3 +1,3 @@
 # koderesto
 
-visit mt site  http://koderesto.com/
+visit mt site  https://neillll04.github.io/koderesto/
